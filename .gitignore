@@ -1,0 +1,7 @@
+*.o
+*.bin
+*.pe
+*.iso
+*.img
+tmp/
+.vscode/
